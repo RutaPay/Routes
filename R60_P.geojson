@@ -1,0 +1,1848 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.839771932635,
+          20.5184985560513
+        ]
+      },
+      "properties": {
+        "nombre": "PO_001_Cruz Roja_I",
+        "rutas": "R8,R10,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,STDA",
+        "num_empresas": 2,
+        "colonia": "Colonia Rosalinda Segunda Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.792285452269,
+          20.5497022327712
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Mision de los Santos_I",
+        "rutas": "R15A,R15B,R31,R32,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Misión los Santos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.777875127624,
+          20.5246582287876
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Riveras del Campestre 2_R",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Fraccionamiento Riberas del Campestre Primera Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.778544502658,
+          20.5221698799863
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Riveras del Campestre_R",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Fraccionamiento Arboledas del Campestre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795822999772,
+          20.5194400013101
+        ]
+      },
+      "properties": {
+        "nombre": "PO_016_LAS INSURGENTES NORTE_R",
+        "rutas": "R13,R16,R40,R60",
+        "num_rutas": 4,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Las Insurgentes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.808048996421,
+          20.5508884121144
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MEXICO-JAPON-GUANAJUATO_R",
+        "rutas": "R46,R60,R61,R62",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Guanajuato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.792188302425,
+          20.5492689874848
+        ]
+      },
+      "properties": {
+        "nombre": "PO_OXXO Mision Santa Fe_I",
+        "rutas": "R15A,R15B,R31,R45,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Misión Santa Fé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.848463000303,
+          20.5287720039806
+        ]
+      },
+      "properties": {
+        "nombre": "PO_La Reta_I",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Fraccionamiento Paseo de los Álamos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.843383025325,
+          20.542305843975
+        ]
+      },
+      "properties": {
+        "nombre": "PO_PINOS TABACHIN PTE_I",
+        "rutas": "R37,R39,R46,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 4,
+        "colonia": "Unidad Habitacional Los Pinos I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.84316574774,
+          20.5420098632142
+        ]
+      },
+      "properties": {
+        "nombre": "PO_PINOS TABACHIN ORIENTE_R",
+        "rutas": "R37,R39,R46,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 4,
+        "colonia": "Unidad Habitacional Los Pinos I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.845707774965,
+          20.5364793848814
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Tribunal Federal EJE NOR-PTE_I",
+        "rutas": "R37,R46,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Villas de la Esperanza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.846176363107,
+          20.5344150120162
+        ]
+      },
+      "properties": {
+        "nombre": "PO_PLAZA LAS PALMAS EJE NOR-PTE_R",
+        "rutas": "R37,R46,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Villas de la Esperanza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.842328767974,
+          20.5448864646272
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CECATI PINOS_I",
+        "rutas": "R37,R39,R46,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 4,
+        "colonia": "Unidad Habitacional Los Pinos lI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.842127438334,
+          20.5445705589157
+        ]
+      },
+      "properties": {
+        "nombre": "PO_PINOS CECATI ORIENTE_R",
+        "rutas": "R37,R39,R46,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 4,
+        "colonia": "Unidad Habitacional Los Pinos lI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.779874091188,
+          20.5443614466992
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Farmacia - Olivos_I",
+        "rutas": "R31,R32,R45,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Puertas del Sol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.847064787418,
+          20.5333875491979
+        ]
+      },
+      "properties": {
+        "nombre": "PO_QUETZALLI EJE CLOUTHIER_I",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Fraccionamiento Los Álamos Oriente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.786922000348,
+          20.5169049983874
+        ]
+      },
+      "properties": {
+        "nombre": "PO_013_TRES GUERRAS SUR",
+        "rutas": "R10,R13,R16,R40,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Tresguerras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.80877199964,
+          20.5190700002761
+        ]
+      },
+      "properties": {
+        "nombre": "PO_009_TENOCHTITLAN SUR",
+        "rutas": "R1,R10,R11,R11 (ESQUIROZ),R12,R13,R17,R26,R39,R40,R58,R60",
+        "num_rutas": 12,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,OMNIBUS,PUERTA DE ORO,SUPACEL,URBPAGO",
+        "num_empresas": 6,
+        "colonia": "Barrio de La Resurrección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.818913196867,
+          20.5198654026029
+        ]
+      },
+      "properties": {
+        "nombre": "PO_006_CUAHUTEMOC",
+        "rutas": "R9,R10,R12,R13,R14,R26,R37,R37B,R40,R45,R55,R60",
+        "num_rutas": 12,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,DIAMANTE,SAETAS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Colonia Centro Histórico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.815019388466,
+          20.5195936258328
+        ]
+      },
+      "properties": {
+        "nombre": "PO_007_Benito Juarez",
+        "rutas": "R9,R10,R11,R12,R13,R14,R18,R19,R20,R21,R23,R24,R25,R26,R27,R29,R37,R37B,R39,R40,R44,R45,R55,R56,R60",
+        "num_rutas": 25,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,DIAMANTE,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 6,
+        "colonia": "Colonia Centro Histórico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.817984451873,
+          20.5200682771524
+        ]
+      },
+      "properties": {
+        "nombre": "PO_021_BLVD. TIMOTEO TREJO",
+        "rutas": "R10,R11,R11 (ESQUIROZ),R12,R13,R14,R26,R36,R37,R37B,R39,R40,R45,R55,R60",
+        "num_rutas": 15,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,OMNIBUS,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 6,
+        "colonia": "Colonia Centro Histórico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.831054721472,
+          20.5194089137419
+        ]
+      },
+      "properties": {
+        "nombre": "PO_024_RENACIMIENTO NORTE",
+        "rutas": "R10,R13,R14,R37,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Renacimiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.837511061362,
+          20.5190543631276
+        ]
+      },
+      "properties": {
+        "nombre": "PO_025_BATALLAS DE CELAYA NORTE",
+        "rutas": "R10,R13,R14,R37,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Renacimiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.836420794453,
+          20.5187969996603
+        ]
+      },
+      "properties": {
+        "nombre": "PO_002_BATALLAS DE CELAYA SUR",
+        "rutas": "R10,R13,R14,R37,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Renacimiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.83197022096,
+          20.5190880536788
+        ]
+      },
+      "properties": {
+        "nombre": "PO_003_RENACIMIENTO SUR",
+        "rutas": "R10,R13,R14,R37,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Fraccionamiento Renacimiento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.822766424714,
+          20.5198261518734
+        ]
+      },
+      "properties": {
+        "nombre": "PO_005_IMSS SUR",
+        "rutas": "R9,R10,R12,R13,R14,R26,R37R37B,R40,R45,R55,R60",
+        "num_rutas": 11,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,DIAMANTE,SAETAS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Barrio de San Juan de Dios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.821656164015,
+          20.5201365905517
+        ]
+      },
+      "properties": {
+        "nombre": "PO_022_IMSS NORTE",
+        "rutas": "R10,R12,R13,R14,R26,R36,R37,R37B,R39,R40,R45,R55,R60",
+        "num_rutas": 13,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,OMNIBUS,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 6,
+        "colonia": "Barrio de San Miguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.826998999883,
+          20.5198250025567
+        ]
+      },
+      "properties": {
+        "nombre": "PO_023_SOL DEL BAJIO NORTE",
+        "rutas": "R10,R12,R13,R14,R26,R36,R37,R37B,R39,R45,R60",
+        "num_rutas": 11,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,OMNIBUS,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 6,
+        "colonia": "Fraccionamiento Arboledas Primera Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.827600983338,
+          20.5194598739656
+        ]
+      },
+      "properties": {
+        "nombre": "PO_004_SOL DEL BAJIO SUR",
+        "rutas": "R10,R12,R13,R14,R26,R37,R45,R60",
+        "num_rutas": 8,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,SAETAS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Fraccionamiento Arboledas Primera Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.790481999652,
+          20.5180989997904
+        ]
+      },
+      "properties": {
+        "nombre": "PO_015_GLORIETA JUÁREZ NORTE_R",
+        "rutas": "R13,R16,R40,R60",
+        "num_rutas": 4,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Unidad Habitacional Torre Campestre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.805224000328,
+          20.5192170004669
+        ]
+      },
+      "properties": {
+        "nombre": "PO_010_DIF CARITA FELIZ SUR_I",
+        "rutas": "R1,R10,R11,R11 (ESQUIROZ),R13,R40,R60",
+        "num_rutas": 7,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN",
+        "num_empresas": 2,
+        "colonia": "Fraccionamiento El Vergel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.844107230575,
+          20.5404902135617
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MARISCOS CHAVA EJE NOR-PTE_I",
+        "rutas": "R37,R46,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Segunda Exhacienda San Juanico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.845417535338,
+          20.5363868293637
+        ]
+      },
+      "properties": {
+        "nombre": "PO_JUZGADOS CIVILES_R",
+        "rutas": "R37,R46,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Segunda Exhacienda San Juanico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.844487094664,
+          20.5386785169305
+        ]
+      },
+      "properties": {
+        "nombre": "PO_OFICINA PAN EJE NOR-PTE_R",
+        "rutas": "R37,R46,R60",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,SAETAS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Segunda Exhacienda San Juanico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.805111494783,
+          20.5194967052039
+        ]
+      },
+      "properties": {
+        "nombre": "PO_017_DIF CARITA FELIZ NORTE",
+        "rutas": "R10,R13,R36,R40,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI",
+        "num_empresas": 2,
+        "colonia": "Fraccionamiento El Vergel Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.826069999813,
+          20.5531449967217
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Chevrolet CIUDADELA_I",
+        "rutas": "R41,R45,R60,R61",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8282110002,
+          20.5533380029313
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Plan de Tuxtepec_I",
+        "rutas": "R41,R45,R60,R61",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.823291211309,
+          20.5528631400605
+        ]
+      },
+      "properties": {
+        "nombre": "PO_TelCel MEXICO JAPON_I",
+        "rutas": "R41,R45,R60,R61",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.826012166413,
+          20.5527068731374
+        ]
+      },
+      "properties": {
+        "nombre": "PO_SORIANA PLAZA FACTORIA_R",
+        "rutas": "R41,R45,R60,R61",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.824321801783,
+          20.5526073776137
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Home Depot_R",
+        "rutas": "R41,R45,R60,R61",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.828799999613,
+          20.5530333290545
+        ]
+      },
+      "properties": {
+        "nombre": "PO_GASOLINERA FTE A COMIDA BRASILEÑA_R",
+        "rutas": "R45,R60,R61",
+        "num_rutas": 3,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Exhacienda Muñiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.834290999877,
+          20.554402996924
+        ]
+      },
+      "properties": {
+        "nombre": "PO_GASOLINERA LA CAPILLA",
+        "rutas": "R41,R42,R44,R45,R55,R60,R61",
+        "num_rutas": 7,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda don Gu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.834691281152,
+          20.5534057851155
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Hospital San Jose",
+        "rutas": "R41,R42,R44,R45,R55,R60,R61",
+        "num_rutas": 7,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda don Gu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.837344444291,
+          20.5521861087948
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Plaza Alfa",
+        "rutas": "R42,R44,R45,R55,R60,R61",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,USB,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Exhacienda don Gu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.787600833791,
+          20.5487821313522
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Centr Comunitario Santa Rita_R",
+        "rutas": "R15A,R15B,R31,R45,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Santa Rita Sur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.780086243463,
+          20.5435579479108
+        ]
+      },
+      "properties": {
+        "nombre": "PO_OLIVOS_I",
+        "rutas": "R51,R52,R60",
+        "num_rutas": 3,
+        "sentido": "IDA",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Exhacienda Silva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.783764275181,
+          20.5483564235088
+        ]
+      },
+      "properties": {
+        "nombre": "PO_GOBERS",
+        "rutas": "R31,R45,R51,R51,R52,R52,R60",
+        "num_rutas": 7,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Gobernadores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.781147214928,
+          20.5473466804781
+        ]
+      },
+      "properties": {
+        "nombre": "PO_GOBERS CURVA_R",
+        "rutas": "R45,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Gobernadores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.82189303896,
+          20.5523157860325
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Bombas Suarez MEXICO-JAPON",
+        "rutas": "R31,R45,R46,R47,R49,R53,R60,R61",
+        "num_rutas": 8,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.815820336524,
+          20.5516855081574
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CECATI SUR",
+        "rutas": "R31,R45,R46,R47,R49,R53,R60,R61",
+        "num_rutas": 8,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.812187113293,
+          20.5512524556762
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CETMEJA",
+        "rutas": "R31,R45,R46,R60,R61",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.799314183956,
+          20.5500112493479
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MUVEA Mexico-Japon",
+        "rutas": "R31,R45,R60,R61,R62",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,OMNIBUS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.794305740235,
+          20.5494902042848
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Mexico Japon - Camino a SMO Sur_I",
+        "rutas": "R31,R45,R60,R61,R62",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,OMNIBUS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.794352121383,
+          20.5499278940634
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CIE MATIC_I",
+        "rutas": "R31,R45,R60,R61,R62",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,OMNIBUS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.799434788348,
+          20.5504635847544
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MAGNA Cd.Industrial_I",
+        "rutas": "R31,R45,R60,R61,R62",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,OMNIBUS,VERDES",
+        "num_empresas": 4,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.815715697895,
+          20.5521256112184
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CECATI NORTE",
+        "rutas": "R43,R45,R46,R47,R50,R60,R61,R62",
+        "num_rutas": 8,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.820302741368,
+          20.5526074144096
+        ]
+      },
+      "properties": {
+        "nombre": "PO_SAETAS",
+        "rutas": "R43,R45,R46,R47,R50,R60,R61,R62",
+        "num_rutas": 8,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.821518583603,
+          20.5527263471706
+        ]
+      },
+      "properties": {
+        "nombre": "PO_CORONA MEXICO-JAPON",
+        "rutas": "R43,R45,R46,R47,R50,R60,R61",
+        "num_rutas": 7,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.810768780908,
+          20.5516286768371
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MEXICO-JAPON CBTIS NORTE_I",
+        "rutas": "R45,R46,R60,R61,R62",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.804029463359,
+          20.5509348352387
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Grupo Lamesa Mexico-Japon_I",
+        "rutas": "R46,R60,R61,R62",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.808363889245,
+          20.551336110136
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Norte 3_I",
+        "rutas": "R46,R60,R61,R62",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.81347983363,
+          20.5518609992363
+        ]
+      },
+      "properties": {
+        "nombre": "PO_LA PALOMA I - NORTE 7_I",
+        "rutas": "R46,R60,R61,R62",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.80382477891,
+          20.5504102776407
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Glorieta Mexico-Japon Sur_R",
+        "rutas": "R46,R60,R61,R62",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OCTOPAN,VERDES",
+        "num_empresas": 3,
+        "colonia": "Zona Industrial Ciudad Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.79603500006,
+          20.5192879974883
+        ]
+      },
+      "properties": {
+        "nombre": "PO_011_LAS INSURGENTES SUR_I",
+        "rutas": "R10,R13,R40,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Fraccionamiento Jardines de Celaya Primera Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.791457999875,
+          20.5180629982786
+        ]
+      },
+      "properties": {
+        "nombre": "PO_012_GLORIETA JUÁREZ_I",
+        "rutas": "R13,R16,R40,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Fraccionamiento Jardines de Celaya Primera Sección"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78740028641,
+          20.549213772816
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Santa Rita Norte_I",
+        "rutas": "R15A,R15B,R31,R32,R45,R60",
+        "num_rutas": 6,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Santa Rita Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.784324999564,
+          20.5488777763952
+        ]
+      },
+      "properties": {
+        "nombre": "PO_MISION DE LOS SANTOS",
+        "rutas": "R31,R32,R45,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Santa Rita Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.776886925089,
+          20.5321135086669
+        ]
+      },
+      "properties": {
+        "nombre": "PO_LIVERPOOL 1_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Magno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.776698675936,
+          20.5307939330732
+        ]
+      },
+      "properties": {
+        "nombre": "PO_LIVERPOOL_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Magno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.777990438595,
+          20.5251657853915
+        ]
+      },
+      "properties": {
+        "nombre": "PO_LA BURGUER_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Magno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.776705315231,
+          20.5332009550572
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Aloft Celaya_R",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Magno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.780263888422,
+          20.5455472178972
+        ]
+      },
+      "properties": {
+        "nombre": "PO_LA CANCHA_I",
+        "rutas": "R31,R32,R45,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Silva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.780683793701,
+          20.5474713185412
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Similar Olivos_I",
+        "rutas": "R31,R32,R45,R60",
+        "num_rutas": 4,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,OMNIBUS,VERDES",
+        "num_empresas": 3,
+        "colonia": "Colonia Silva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.781778000182,
+          20.5160400041563
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Universidad",
+        "rutas": "R10,R13,R16,R40,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Rancho Pinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.786415973914,
+          20.5170937573139
+        ]
+      },
+      "properties": {
+        "nombre": "PO_014_TRES GUERRAS NORTE",
+        "rutas": "R10,R13,R16,R40,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Rancho Pinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.778802903874,
+          20.5222093138679
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Frente Riveras del Campestre_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Rancho Pinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.779394444146,
+          20.5201777751056
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Campestre_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Rancho Pinto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.84321700042,
+          20.5188150016406
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Hotel Fiesta INN_R",
+        "rutas": "R10,R60",
+        "num_rutas": 2,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Fraccionamiento La Soledad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.84088746596,
+          20.5485671893529
+        ]
+      },
+      "properties": {
+        "nombre": "PO_EJE NOR-PTE NARANJOS_I",
+        "rutas": "R36,R37,R39,R45,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 5,
+        "colonia": "Colonia La Purísima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.841045683585,
+          20.5468395797583
+        ]
+      },
+      "properties": {
+        "nombre": "PO_PARQUE CELAYA SCOTIABANK_R",
+        "rutas": "R36,R37,R39,R45,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 5,
+        "colonia": "Colonia La Purísima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.840371366336,
+          20.5484479326822
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Parque Celaya NARANJOS_R",
+        "rutas": "R36,R37,R39,R45,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,EVI,SAETAS,SUPACEL,VERDES",
+        "num_empresas": 5,
+        "colonia": "Colonia La Purísima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.838070775446,
+          20.5515973272478
+        ]
+      },
+      "properties": {
+        "nombre": "PO_FARM AHORRO EJE NOR-PTE_I",
+        "rutas": "R45,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia La Purísima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.837573156248,
+          20.5513499109501
+        ]
+      },
+      "properties": {
+        "nombre": "PO_VIVEROS EJE NOR PTE_R",
+        "rutas": "R45,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia La Purísima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.779505167223,
+          20.5171370235706
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Holliday INN_I",
+        "rutas": "R40,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Las Delicias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7791055281,
+          20.5199550713576
+        ]
+      },
+      "properties": {
+        "nombre": "PO_DELICIAS_R",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia Las Delicias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.846597072128,
+          20.5185847399305
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Entrada Real de Arboledas_R",
+        "rutas": "R10,R60",
+        "num_rutas": 2,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia San Nicolás de Parra II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.848508258401,
+          20.5268987977185
+        ]
+      },
+      "properties": {
+        "nombre": "PO_OXXO HOSPITAL GRL_R",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia La Soledad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.847659427084,
+          20.5298292876355
+        ]
+      },
+      "properties": {
+        "nombre": "PO_AURRERA EJE_R",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia La Soledad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.782241999474,
+          20.5157389967236
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Glorieta Torres",
+        "rutas": "R10,R13,R16,R40,R60",
+        "num_rutas": 5,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia San José de Torres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.780618481526,
+          20.5146452071958
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Presa Blanca Atucsa_I",
+        "rutas": "R16,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia San José de Torres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.781430555304,
+          20.5131555562653
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Atucsa_I",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "IDA",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia San José de Torres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.781611110763,
+          20.5131611091383
+        ]
+      },
+      "properties": {
+        "nombre": "PO_Atucsa 2_R",
+        "rutas": "R60",
+        "num_rutas": 1,
+        "sentido": "REGRESO",
+        "empresas": "ATUCSA",
+        "num_empresas": 1,
+        "colonia": "Colonia San José de Torres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.848996240197,
+          20.5268545649668
+        ]
+      },
+      "properties": {
+        "nombre": "PO_HOSPITAL GRL PTE_I",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Fraccionamiento Los Álamos Poniente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.839687903696,
+          20.5196485045895
+        ]
+      },
+      "properties": {
+        "nombre": "PO_026_GLORIETA BATALLAS DE CELAYA_I",
+        "rutas": "R8,R10,R13,R14,R37,R45,R60",
+        "num_rutas": 7,
+        "sentido": "IDA",
+        "empresas": "ATUCSA,SAETAS,STDA,VERDES",
+        "num_empresas": 4,
+        "colonia": "Colonia Zona Industrial Poniente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.849218570223,
+          20.5242656079522
+        ]
+      },
+      "properties": {
+        "nombre": "PO_FLECHA AMARILLA EJE CLOUTHIER_I",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Zona Industrial Poniente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.849190797093,
+          20.5203584111581
+        ]
+      },
+      "properties": {
+        "nombre": "PO_BACHOCO GASERA_I",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Zona Industrial Poniente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.848916617866,
+          20.5203493389806
+        ]
+      },
+      "properties": {
+        "nombre": "PO_BACHOCO EJE_R",
+        "rutas": "R46,R60",
+        "num_rutas": 2,
+        "sentido": "IDA,REGRESO",
+        "empresas": "ATUCSA,VERDES",
+        "num_empresas": 2,
+        "colonia": "Colonia Zona Industrial Poniente"
+      }
+    }
+  ]
+}
