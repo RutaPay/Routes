@@ -2,10 +2,10 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "feature",
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
-        "Coordinates": [
+        "coordinates": [
           [
             -100.886873537137,
             20.5644666439702
@@ -649,7 +649,7 @@
         ]
       },
       "properties": {
-        "name": "R12 - SAN JOSE ",
+        "name": "R12",
         "origen": "ATUCSA",
         "destino": "CALLE JUAREZ",
         "longitud_km": 12.27
