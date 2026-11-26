@@ -1176,10 +1176,10 @@
       }
     },
     {
-      "Type": "Feature",
-      "Geometry": {
-        "Type": "LineString",
-        "Coordinates": [
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             -100.7629143,
             20.5291216
